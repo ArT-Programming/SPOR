@@ -8,7 +8,7 @@ SPOR is a development from the 3. semester project "CREATivE Patterns" from the 
 The code is made in AlloSystem using build in openCV library. To use OpenCV, find the allosystem directory in Terminal and type make allocv.
 Everthing should be ready to go! 
  
-Link to AlloSystem + installing guide: https://github.com/AlloSphere-Research-Group/AlloSystem/tree/makefile-build/allocore
+Link to AlloSystem + installing guide: https://github.com/AlloSphere-Research-Group/AlloSystem/tree/makefile-build
 
 Thanks to our teacher Lance Putnam!
 
