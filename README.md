@@ -1,4 +1,17 @@
 # SPOR
+  	  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  
+ ~~~~~~~~~~~~~~~~~~ S P O R ~~~~~~~~~~~~~~~~~~ 
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 	  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+
+Created by Frederik Gøeg, Grith Henriksen, Louise Wunderlich, Nikolaj Andersson and Alf Andersen
+
+Aalborg University
+Art & Technology
+3rd Semester, Fall 2014
+Group 2 (Cardiod)
+
 The installation SPOR exhibited at SOL Festival Aalborg march 2015.
 The application allows the user to connect a webcam and detect change in pixels.
 
