@@ -12,7 +12,7 @@ Link to AlloSystem + installing guide: https://github.com/AlloSphere-Research-Gr
 
 Thanks to our teacher Lance Putnam!
 
-Project created by Frederik Gøeg, Grith Henriksen, Louise Wunderlich, Nikolaj Andersson and Alf Andersen
+SPOR was created by Frederik Gøeg, Grith Henriksen, Louise Wunderlich, Nikolaj Andersson and Alf Andersen
 
 Aalborg University
 Art & Technology
