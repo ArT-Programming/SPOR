@@ -57,7 +57,7 @@ public:
 	
 	CP():
 	scaleWay(-1), scaleTime(0), scaleAmount(0.1),
-	vid(640,480, 1), // Constructor chaining: call vid's constructor within CP's constructor with vid(width, height, videoinput)
+	vid(640,480, 0), // Constructor chaining: call vid's constructor within CP's constructor with vid(width, height, videoinput)
 	time(0),
 	maskWindows(false),
 	firstFrame(true),
